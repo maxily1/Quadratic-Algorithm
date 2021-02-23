@@ -23,3 +23,11 @@ This algorithm is based on a simple math procedure, sqaure root and raise a numb
  * Round the results so we won't have a situtation where the character 'H' for example will be decoded as character 'G' just because we didn't round the number, Then using ASCII code we turn the numbers into characters. 
 
  * Then append all the characters to a list, and then make a string out of that list, and printing the result to the user. 
+
+ <h2> To Do: </h2>
+
+ * Add the option to open files in the code and encode them \ decode them.
+ 
+ * Add the option to export the results as files. 
+
+ * Add the option to run the file from CMD \ Terminal using argparse
